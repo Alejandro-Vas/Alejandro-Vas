@@ -1,4 +1,4 @@
-# Hi, I'm junior frontend developer.
+# Hi, I'm junior frontend developer
 
 ## TECHNOLOGY STACK
 - HTML5
