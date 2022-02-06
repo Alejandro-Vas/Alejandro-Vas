@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Alejandro-Vas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm junior frontend developer.
 
-<!---
-Alejandro-Vas/Alejandro-Vas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## MY TECHNOLOGY STACK
+- HTML5
+- CSS3
+- SASS/SCSS
+- JavaScript
+- TypeScript
+- ReactJS
+- React state manager (Redux / Redux-Toolkit / RTK Query)
+- React ecosystem (React-router, Formik, React Transition Group)
+- Bootstrap/React-bootstrap
+
+## REALISED PROJECTS:
+[Weathermann (Weather app)](https://github.com/Alejandro-Vas/weather-app)
+
+
+ 
