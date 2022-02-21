@@ -18,8 +18,10 @@
 - Figma
 
 ## REALISED PROJECTS:
-- [Weathermann (Weather app)](https://github.com/Alejandro-Vas/weather-app)
+- [News App](https://github.com/Alejandro-Vas/news-app)
 - [Todo List App](https://github.com/Alejandro-Vas/todo-list-app)
+- [Weather app](https://github.com/Alejandro-Vas/weather-app)
+
 
 ## DOWNLOAD MY CV:
 [CV Link](https://disk.yandex.ru/i/E2RLWP_m6m0gdg)
