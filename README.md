@@ -10,6 +10,7 @@
 - React state manager (Redux / Redux-Toolkit / RTK Query)
 - React ecosystem (React-router, Formik, React Transition Group, Axios)
 - Bootstrap/React-bootstrap
+- Material UI
 - Rest API
 
 ## TOOLS
