@@ -24,9 +24,5 @@
 - [Weather app](https://github.com/Alejandro-Vas/weather-app)
 
 
-## DOWNLOAD MY CV:
-[CV Link](https://disk.yandex.ru/i/E2RLWP_m6m0gdg)
-
-
 
  
