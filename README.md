@@ -1,22 +1,19 @@
-# Hi, I'm junior frontend developer
+# Hi, I'm frontend developer
 
 ## TECHNOLOGY STACK
 - HTML5
-- CSS3
-- SASS/SCSS
+- CSS3, SASS/SCSS
 - JavaScript
 - TypeScript
 - ReactJS
-- React state manager (Redux / Redux-Toolkit / RTK Query)
-- React ecosystem (React-router, Formik, React Transition Group, Axios)
-- Bootstrap/React-bootstrap
-- Material UI
+- NextJS
+- Redux / Redux-Toolkit / RTK Query
+- Material UI, Bootstrap
 - Rest API
 
 ## TOOLS
 - VS Code
 - Git
-- Figma
 
 ## REALISED PROJECTS:
 - [News App](https://github.com/Alejandro-Vas/news-app)
