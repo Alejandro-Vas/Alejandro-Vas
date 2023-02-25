@@ -17,8 +17,6 @@
 
 ## REALISED PROJECTS:
 - [News App](https://github.com/Alejandro-Vas/news-app)
-- [Todo List App](https://github.com/Alejandro-Vas/todo-list-app)
-- [Weather app](https://github.com/Alejandro-Vas/weather-app)
 
 
 
