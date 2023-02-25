@@ -2,7 +2,7 @@
 Frontend developer with experience of building apps in product company scrum team with CI/CD
 
 ## WORK EXPERIENCE
-march 2022 - Until now
+March 2022 - Until now
 ### Carprice - Frontend developer
 - App development using JavaScript, TypeScript, React, Redux, NextJS.
 - UI-kit and internal packages support
