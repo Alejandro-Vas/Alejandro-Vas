@@ -18,11 +18,12 @@ March 2022 - Until now
 - JavaScript, TypeScript
 - React (also have some experience with Vue.js)
 - Redux / Redux-Toolkit / RTK Query
+- Next.js
 - Material UI, Bootstrap
 - Yandex maps, Chart.js
 - Webpack
 - Express
-- Git, GitLab
+- Git (GitLab, GitHub)
 - Docker, Kubernetes, Argocd
 - Sentry, Kibana
 - EsLint, SonarQube
@@ -32,4 +33,5 @@ March 2022 - Until now
 
 
 ## DEMO PROJECTS:
-- [News App](https://github.com/Alejandro-Vas/news-app)
+- [News App (React, Redux, Webpack, Material UI)](https://github.com/Alejandro-Vas/news-app)
+- [JSON Viewer (NPM package with zero dependencies)](https://github.com/Alejandro-Vas/JSON-viewer)
