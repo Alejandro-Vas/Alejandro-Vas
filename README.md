@@ -2,7 +2,7 @@
 Frontend developer with experience of building apps in product company scrum team with CI/CD
 
 ## WORK EXPERIENCE
-March 2022 - Until now
+February 2022 - Until now
 ### Carprice - Frontend developer
 - App development using JavaScript, TypeScript, React, Redux, NextJS.
 - UI-kit and internal packages support
@@ -48,5 +48,7 @@ March 2022 - Until now
 
 
 ## DEMO PROJECTS:
+
 - [News App (React, Redux, Webpack, Material UI)](https://github.com/Alejandro-Vas/news-app)
+- [Personal Site (React, Next.js)](https://github.com/Alejandro-Vas/a-vasin-dev)
 - [JSON Viewer (NPM package with zero dependencies)](https://github.com/Alejandro-Vas/JSON-viewer)
