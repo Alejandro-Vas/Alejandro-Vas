@@ -50,5 +50,6 @@ February 2022 - Until now
 ## DEMO PROJECTS:
 
 - [News App (React, Redux, Webpack, Material UI)](https://github.com/Alejandro-Vas/news-app)
-- [Personal Site (React, Next.js)](https://github.com/Alejandro-Vas/a-vasin-dev)
+- [Personal Site (React, Redux, Webpack)](https://github.com/Alejandro-Vas/a-vasin-dev)
+- [Star Wars API client (React, Next.js)](https://github.com/Alejandro-Vas/star-wars)
 - [JSON Viewer (NPM package with zero dependencies)](https://github.com/Alejandro-Vas/JSON-viewer)
